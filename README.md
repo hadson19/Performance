@@ -5,3 +5,6 @@ http://calendar.perfplanet.com/2014/images-are-king-an-image-optimization-checkl
 
 **Tips on Managing the Performance of your 3rd Party Scripts**
 http://info.soasta.com/SEM_WP_3rdPartyPerformance.html
+
+
+[**Immaculate Imagery with Lazy Pictures & BPG**](http://calendar.perfplanet.com/2015/immaculate-imagery-with-lazy-pictures-bpg/)
