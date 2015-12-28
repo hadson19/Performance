@@ -8,3 +8,5 @@
 [**Immaculate Imagery with Lazy Pictures & BPG**](http://calendar.perfplanet.com/2015/immaculate-imagery-with-lazy-pictures-bpg/)      http://calendar.perfplanet.com
 
 Use responsive images and asynchronous loading to lower initial page weight by ~80% and improve the Speed Index. For further improvements, use mozjpeg smartly to reduce JPEG file size for initially visible images and consider alternate formats such as BPG for initially invisible images.
+
+[**The web performance, analytics, and optimization blog**](http://www.soasta.com/blog/page-bloat-2015-web-performance-monitoring/)
