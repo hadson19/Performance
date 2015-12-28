@@ -1,10 +1,8 @@
 # Performance
 
-**Statistics for optimize images**
-http://calendar.perfplanet.com/2014/images-are-king-an-image-optimization-checklist-for-everyone-in-your-organization/
+[**Statistics for optimize images**](http://calendar.perfplanet.com/2014/images-are-king-an-image-optimization-checklist-for-everyone-in-your-organization)  http://calendar.perfplanet.com
 
-**Tips on Managing the Performance of your 3rd Party Scripts**
-http://info.soasta.com/SEM_WP_3rdPartyPerformance.html
+[**Tips on Managing the Performance of your 3rd Party Scripts**](http://info.soasta.com/SEM_WP_3rdPartyPerformance.html)     http://info.soasta.com
 
 
-[**Immaculate Imagery with Lazy Pictures & BPG**](http://calendar.perfplanet.com/2015/immaculate-imagery-with-lazy-pictures-bpg/)
+[**Immaculate Imagery with Lazy Pictures & BPG**](http://calendar.perfplanet.com/2015/immaculate-imagery-with-lazy-pictures-bpg/)      http://calendar.perfplanet.com
