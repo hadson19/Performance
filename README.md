@@ -15,4 +15,4 @@ Use responsive images and asynchronous loading to lower initial page weight by ~
 
 # JavaScript
 
-[React vs AngularJS vs KnockoutJS: a Performance Comparison. January 13th 2015 ]https://www.codementor.io/reactjs/tutorial/reactjs-vs-angular-js-performance-comparison-knockout
+[React vs AngularJS vs KnockoutJS: a Performance Comparison. January 13th 2015 ](https://www.codementor.io/reactjs/tutorial/reactjs-vs-angular-js-performance-comparison-knockout)
